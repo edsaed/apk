@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner":"ca-app-pub-6195944970061879/6815395290",
+      "main_ads_intertitial":"ca-app-pub-6195944970061879/7936905277",
+      "main_ads_natives":"ca-app-pub-6195944970061879/9058415254",
+      "main_ads_rewards":"ca-app-pub-6195944970061879/6240680229",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-6195944970061879/3231373502",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Loans",
+      "high_paying_keyword_3": "Lawyer",
+      "high_paying_keyword_4": "Donate",
+      "high_paying_keyword_5": "Credit",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ Desa",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ Desa",
+      "title": "DJ HOLD ON TIK TOK VIRAL (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20HOLD%20ON%20TIK%20TOK%20VIRAL%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ Desa",
+      "title": "DJ STAY REGGAE (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20STAY%20REGGAE%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 3,
+      "name_category": "DJ Desa",
+      "title": "DJ NIGHT CHANGE x MELODI ARABIC (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20NIGHT%20CHANGE%20x%20MELODI%20ARABIC%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 4,
+      "name_category": "DJ Desa",
+      "title": "DJ YOU DONT EVEN KNOW ME (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20YOU%20DONT%20EVEN%20KNOW%20ME%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 5,
+      "name_category": "DJ Desa",
+      "title": "DJ WYD NOW SLOW x INDIA MAINE TOH DHEERE SE (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20WYD%20NOW%20SLOW%20x%20INDIA%20MAINE%20TOH%20DHEERE%20SE%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 6,
+      "name_category": "DJ Desa",
+      "title": "DJ HABIBI TIK TOK (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20HABIBI%20TIK%20TOK%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 7,
+      "name_category": "DJ Desa",
+      "title": "DJ AINSI BAS LA VIDA SLOW GAMELAN TIK TOK (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20AINSI%20BAS%20LA%20VIDA%20SLOW%20GAMELAN%20TIK%20TOK%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 8,
+      "name_category": "DJ Desa",
+      "title": "DJ RIP LOVE SLOW SULING SAKTI TIK TOK (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20RIP%20LOVE%20SLOW%20SULING%20SAKTI%20TIK%20TOK%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 9,
+      "name_category": "DJ Desa",
+      "title": "DJ ANGEL BABY SULING SAKTI SLOW IS BACK (DJ DESA Remix)",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20ANGEL%20BABY%20SULING%20SAKTI%20SLOW%20IS%20BACK%20%28DJ%20DESA%20Remix%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
+    },
+    {
+      "id": 10,
+      "name_category": "DJ Desa",
+      "title": "DJ BEAUTIFUL GIRL FULL BEAT TIK TOK ( DJ DESA Remix )",
+      "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20BEAUTIFUL%20GIRL%20FULL%20BEAT%20TIK%20TOK%20%28%20DJ%20DESA%20Remix%20%29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
+    }
+  ]
+}
