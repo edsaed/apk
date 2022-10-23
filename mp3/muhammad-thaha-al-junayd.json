@@ -38,15 +38,15 @@
     {
       "id": 1,
       "name_category": "Juz 30",
-      "title": "An-Naba (Berita Besar)",
+      "title": "Al-Fatihah (Pembukaan)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
-      "link_mp3": "http://shortlink.byethost5.com/download/dXBsb2Fkcy9tcDMvbXVoYW1tYWQtdGhhaGEtYWwtanVuYXlkL0FsLUZhdGloYWgtJTI4UGVtYnVrYWFuJTI5Lm1wMw==/h/0bef9a6a26b27e12f921c8ed83c5ef7d&audio=play",
+      "link_mp3": "https://archive.org/download/an-naaziaat-malaikat-malaikat-yang-mencabut/Al-Fatihah%20%28Pembukaan%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
     },
     {
       "id": 2,
       "name_category": "Juz 30",
-      "title": "An-Naazi’aat (Malaikat-malaikat yang Mencabut)",
+      "title": "An-Naba (Berita Besar)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20STAY%20REGGAE%20%28DJ%20DESA%20Remix%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
@@ -54,7 +54,7 @@
     {
       "id": 3,
       "name_category": "Juz 30",
-      "title": "Abasa (Ia Bermuka Masam)",
+      "title": "An-Naazi’aat (Malaikat-malaikat yang Mencabut)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20NIGHT%20CHANGE%20x%20MELODI%20ARABIC%20%28DJ%20DESA%20Remix%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
@@ -62,7 +62,7 @@
     {
       "id": 4,
       "name_category": "Juz 30",
-      "title": "At-Takwiir (Menggulung)",
+      "title": "Abasa (Ia Bermuka Masam)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20YOU%20DONT%20EVEN%20KNOW%20ME%20%28DJ%20DESA%20Remix%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
@@ -70,7 +70,7 @@
     {
       "id": 5,
       "name_category": "Juz 30",
-      "title": "Al-Infithaar (Terbelah)",
+      "title": "At-Takwiir (Menggulung)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20WYD%20NOW%20SLOW%20x%20INDIA%20MAINE%20TOH%20DHEERE%20SE%20%28DJ%20DESA%20Remix%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
@@ -78,7 +78,7 @@
     {
       "id": 6,
       "name_category": "Juz 30",
-      "title": "Al-Muthaffifiin (Orang-orang yang Curang)",
+      "title": "Al-Infithaar (Terbelah)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20HABIBI%20TIK%20TOK%20%28DJ%20DESA%20Remix%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
@@ -86,7 +86,7 @@
     {
       "id": 7,
       "name_category": "Juz 30",
-      "title": "Al-Insyiqaaq (Terbelah)",
+      "title": "Al-Muthaffifiin (Orang-orang yang Curang)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20AINSI%20BAS%20LA%20VIDA%20SLOW%20GAMELAN%20TIK%20TOK%20%28DJ%20DESA%20Remix%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
@@ -94,7 +94,7 @@
     {
       "id": 8,
       "name_category": "Juz 30",
-      "title": "Al-Buruuj (Gugusan Bintang)",
+      "title": "Al-Insyiqaaq (Terbelah)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20RIP%20LOVE%20SLOW%20SULING%20SAKTI%20TIK%20TOK%20%28DJ%20DESA%20Remix%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
@@ -102,7 +102,7 @@
     {
       "id": 9,
       "name_category": "Juz 30",
-      "title": "Ath-Thaariq (yang Datang di Malam Hari)",
+      "title": "Al-Buruuj (Gugusan Bintang)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20ANGEL%20BABY%20SULING%20SAKTI%20SLOW%20IS%20BACK%20%28DJ%20DESA%20Remix%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
@@ -110,7 +110,7 @@
     {
       "id": 10,
       "name_category": "Juz 30",
-      "title": "Al-A’laa (yang Paling Tinggi)",
+      "title": "Ath-Thaariq (yang Datang di Malam Hari)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20BEAUTIFUL%20GIRL%20FULL%20BEAT%20TIK%20TOK%20%28%20DJ%20DESA%20Remix%20%29.mp3",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -118,7 +118,7 @@
     {
       "id": 11,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Al-A’laa (yang Paling Tinggi)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -126,7 +126,7 @@
     {
       "id": 12,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Al-Ghaasyiyah (Hari Pembalasan)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -134,7 +134,7 @@
     {
       "id": 13,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Al-Fajr (Fajar)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -142,7 +142,7 @@
     {
       "id": 14,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Al-Balad (Negeri)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -150,7 +150,7 @@
     {
       "id": 15,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Asy-Syams (Matahari)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -158,7 +158,7 @@
     {
       "id": 16,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Al-Lail (Malam)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -166,7 +166,7 @@
     {
       "id": 17,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Adh-Dhuhaa (Waktu Dhuha)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -174,7 +174,7 @@
     {
       "id": 18,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Al-Insyirah (Melapangkan)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -182,7 +182,7 @@
     {
       "id": 19,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "At-Tin (Buah Tin)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
@@ -190,7 +190,7 @@
     {
       "id": 20,
       "name_category": "Juz 30",
-      "title": "",
+      "title": "Al-Alaq (Segumpal Darah)",
       "image": "https://raw.githubusercontent.com/edsaed/apk/main/mp3/muhammad-thaha-al-junayd.png",
       "link_mp3": "",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p>"
