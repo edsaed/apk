@@ -3,15 +3,15 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner":"ca-app-pub-6195944970061879/6815395290",
-      "main_ads_intertitial":"ca-app-pub-6195944970061879/7936905277",
-      "main_ads_natives":"ca-app-pub-6195944970061879/9058415254",
-      "main_ads_rewards":"ca-app-pub-6195944970061879/6240680229",
+      "main_ads_banner":"",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "open_ads_admob":"ca-app-pub-6195944970061879/3231373502",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
@@ -30,7 +30,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "DJ Desa",
+      "name_category": "Juz 30",
       "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ],
@@ -40,7 +40,7 @@
       "name_category": "DJ Desa",
       "title": "DJ HOLD ON TIK TOK VIRAL (DJ DESA Remix)",
       "image": "https://yt3.ggpht.com/3ZQ8xId_09YHVWNysu8WDtnfUVu69qQE7Hr6xu1Js7zOAfU3VCRNSS52Dv-J5vjmCfn9I4ssnA=s176-c-k-c0x00ffffff-no-rj-mo",
-      "link_mp3": "https://archive.org/download/dj-wyd-now-slow-x-india-maine-toh-dheere-se-dj-desa-remix/DJ%20HOLD%20ON%20TIK%20TOK%20VIRAL%20%28DJ%20DESA%20Remix%29.mp3",
+      "link_mp3": "http://shortlink.byethost5.com/download/dXBsb2Fkcy9tcDMvbXVoYW1tYWQtdGhhaGEtYWwtanVuYXlkL0FsLUZhdGloYWgtJTI4UGVtYnVrYWFuJTI5Lm1wMw==/h/0bef9a6a26b27e12f921c8ed83c5ef7d&audio=play",
       "lyrics": "<p style=\"text-align: center;\">edsaed.my.idِ</p"
     },
     {
